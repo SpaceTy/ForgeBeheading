@@ -3,9 +3,9 @@ A stand-alone beheading enchantment for Forge 1.16.5 minecraft.
 
 ## Features
 - Beheading I
- - Head drop chance 10%
+  - Head drop chance 10%
 - Beheading II
- - Head drop chance 20%
+  - Head drop chance 20%
 - Beheading III
   - Head drop chance 30%
 
